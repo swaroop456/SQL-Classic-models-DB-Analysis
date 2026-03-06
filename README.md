@@ -88,6 +88,6 @@ Prepared Structured Documentation & Analysis
 ---
 
 ## 👤 Author
-**Matadas Sai Kumar**
+**Vathada Swaroop Kumar**
 - GitHub: [swaroop456](https://github.com/swaroop456)
-- LinkedIn: [Matadas Sai Kumar](https://www.linkedin.com/in/vathada-swaroop-kumar-277660198)
+- LinkedIn: [Vathada Swaroop Kumar](https://www.linkedin.com/in/vathada-swaroop-kumar-277660198)

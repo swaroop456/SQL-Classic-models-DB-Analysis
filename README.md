@@ -90,4 +90,4 @@ Prepared Structured Documentation & Analysis
 ## 👤 Author
 **Vathada Swaroop Kumar**
 - GitHub: [swaroop456](https://github.com/swaroop456)
-- LinkedIn: [Vathada Swaroop Kumar](https://www.linkedin.com/in/swaroopkumarvathada)
+- LinkedIn:[Swaroop Kumar Vathada](https://www.linkedin.com/in/swaroopkumarvathada)

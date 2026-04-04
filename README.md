@@ -1,91 +1,45 @@
-# 🗄️ MySQL Mini Project — Classic Models Database Analysis
+**Classic Models Database Analysis using MySQL**
 
-## 📌 About This Project
-This project was assigned as a mini project by my instructor in the platform - **Agileology**
-I studied the **problem statement**, wrote **10 SQL queries**
-on the Classic Models Database, captured all query outputs,
-and prepared a complete structured documentation with
-full analysis and insights.
+A data analysis mini project performed on the ClassicModels database using MySQL.
+The project answers 10 real business questions with SQL queries, result screenshots, insights, and strategies.
 
----
+**## Project Files**
+MYSQL_Mini_Project_Question.pdf — Problem statement and business questions
+MYSQL_Mini_Project_Work_Structured.pdf — All 10 queries with result screenshots
+MYSQL_Mini_Project_Final_Report.pdf — Final report with insights and strategies
+MYSQL_Mini_Project.sql — Complete SQL script
+MYSQL_Mini_Proj_Query - 1 to 10.pdf — Individual query output files
 
-## 🛠️ Tools & Technologies Used
-- **SQL** — Query language used for all queries
-- **MySQL** — Database Management System (DBMS)
-- **Classic Models Database** — Dataset used for analysis
-- **MySQL Workbench** — Tool used to write and execute queries
-- **MS Word** — Project documentation
+**Business Questions Covered**
+Which products generate the highest and lowest revenue?
+Which product lines result in highest revenue?
+Who are the top customers and what are their purchasing behaviours?
+How do seasonal trends and order volumes vary over time?
+How does order status affect purchases?
+What is each employee's contribution in processing orders?
+Does the credit limit of customers affect their purchase amount?
+Which countries are driving the most revenue?
+What is the average time to ship across different product lines?
+Which products have zero sales?
 
+**Database**
+ClassicModels — a MySQL sample database with tables covering customers, orders,
+order details, products, product lines, employees, payments, and offices.
 
-## 📁 Files in This Repository
+**SQL Concepts Used**
+INNER JOIN and LEFT JOIN
+GROUP BY, ORDER BY, HAVING
+Aggregate functions — SUM, COUNT, AVG, ROUND
+UNION for combining result sets
+DATEDIFF for shipping time calculations
+Subqueries and NULL checks
 
-| File Name | Description |
-|---|---|
-| `MySQL_Mini_Project_Quest.docx` | Problem statement given by instructor |
-| `MySQL_Mini_Project.sql` | Complete MySQL queries script |
-| `MySQL_Mini_Proj_Query-1.pdf` | Query 1 output |
-| `MySQL_Mini_Proj_Query-2.pdf` | Query 2 output |
-| `MySQL_Mini_Proj_Query-3.pdf` | Query 3 output |
-| `MySQL_Mini_Proj_Query-4.pdf` | Query 4 output |
-| `MySQL_Mini_Proj_Query-5.pdf` | Query 5 output |
-| `MySQL_Mini_Proj_Query-6.pdf` | Query 6 output |
-| `MySQL_Mini_Proj_Query-7.pdf` | Query 7 output |
-| `MySQL_Mini_Proj_Query-8.pdf` | Query 8 output |
-| `MySQL_Mini_Proj_Query-9.pdf` | Query 9 output |
-| `MySQL_Mini_Proj_Query-10.pdf` | Query 10 output |
-| `MySQL_Mini_Project_Work_Structured.docx` | Complete structured documentation and analysis report |
-
----
-
-## 🔍 My Project Journey
-
-- ✅ Step 1 — Studied and understood the **problem statement** given by instructor
-- ✅ Step 2 — Explored the **Classic Models Database** structure
-- ✅ Step 3 — Wrote **10 SQL queries** covering multiple concepts
-- ✅ Step 4 — Executed all queries in **MySQL Workbench**
-- ✅ Step 5 — Captured all **query outputs as PDF files**
-- ✅ Step 6 — Prepared complete **structured documentation** with analysis
-
----
-
-## 📊 Project Workflow
-
-```
-Instructor Problem Statement
-        ↓
-Studied Question Document
-        ↓
-Explored Classic Models Database
-        ↓
-Wrote MySQL Script (10 Queries)
-        ↓
-Executed Queries in MySQL Workbench
-        ↓
-Captured Query Outputs (PDF 1 to 10)
-        ↓
-Prepared Structured Documentation & Analysis
-```
-
----
-
-## 🔎 SQL Concepts Covered
-- SELECT, WHERE, ORDER BY
-- GROUP BY with aggregate functions
-- COUNT, SUM, AVG
-- JOIN queries
-- Filtering and sorting data
-- Data analysis and insights
-
----
-
-## 📈 Key Highlights
-- Worked on real-world Classic Models sales database
-- Written 10 structured SQL queries covering multiple concepts
-- PDF proof of all query outputs uploaded separately
-- Complete structured documentation with full analysis prepared
-- Entire project journey documented from question to output
-
----
+**Key Findings**
+Classic Cars is the highest revenue-generating product line
+A small group of customers contribute the majority of total revenue
+Revenue peaks in Q4, driven by year-end demand
+Cancelled and disputed orders represent measurable revenue leakage
+One product (1985 Toyota Supra) has zero sales with 7733 units in stock
 
 ## 👤 Author
 **Vathada Swaroop Kumar**
